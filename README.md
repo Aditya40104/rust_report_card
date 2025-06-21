@@ -2,7 +2,8 @@
 
 A command-line application that generates professional PDF report cards from student performance data.
 
-![Sample Report Card](report_card.png) *(replace with your actual screenshot)*
+![image](https://github.com/user-attachments/assets/60175fc2-0012-417b-bc0f-48d17f49002a)
+
 
 ## ✨ Features
 
